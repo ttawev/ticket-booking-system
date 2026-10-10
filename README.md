@@ -29,3 +29,6 @@
   "userId": 1,
   "ticketId": 1
 }
+
+<img width="1376" height="768" alt="ticket-booking-architecture" src="https://github.com/user-attachments/assets/46dd4749-1528-4233-9b50-88dda505f431" />
+
